@@ -86,10 +86,10 @@ repositories:
     type: git
     url: https://github.com/tier4/sensor_component_description.git
     version: main
-  sensor_component/external/sensor_component_description:
+  sensor_component/external/sensor_component_description/ouster_description:
     type: git
     url: https://github.com/subramanians1/ouster_description.git
-    version: main
+    version: ros2
   sensor_component/external/tamagawa_imu_driver:
     type: git
     url: https://github.com/tier4/tamagawa_imu_driver.git
