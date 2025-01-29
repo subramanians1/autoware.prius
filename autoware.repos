@@ -98,10 +98,10 @@ repositories:
    # url: https://github.com/ouster-lidar/ouster-ros.git
    # version: ros2
    # recursive: true
-  sensor_component/external/oxts_ros2_driver_humble
-  	type: git
-  	url: https://github.com/avinashumeshsarma/oxts_ros2_driver_humble.git
-  	version: main
+  sensor_component/external/oxts_ros2_driver_humble:
+    type: git
+    url: https://github.com/avinashumeshsarma/oxts_ros2_driver_humble.git
+    version: master
   sensor_component/external/ouster_point_type_adapter:
     type: git
     url: https://github.com/subramanians1/ouster_point_type_adapter.git
