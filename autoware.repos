@@ -96,16 +96,11 @@ repositories:
     type: git
     url: https://github.com/tier4/nebula.git
     version: f43a28d1a8a51aca5efcae9186139767154bc44f
-  sensor_component/external/ouster-ros:
-    type: git
-    url: https://github.com/ouster-lidar/ouster-ros.git
-    version: ros2
-    recursive: true
-  #sensor_component/external/ouster_point_type_adapter:
-   # type: git
-   # url: https://github.com/ouster-lidar/ouster-ros.git
-   # version: ros2
-   # recursive: true
+  #sensor_component/external/ouster-ros:
+    #type: git
+    #url: https://github.com/ouster-lidar/ouster-ros.git
+    #version: ros2
+    #recursive: true
   sensor_component/external/oxts_ros2_driver_humble:
     type: git
     url: https://github.com/avinashumeshsarma/oxts_ros2_driver_humble.git
