@@ -26,3 +26,7 @@ capture/
 
 # Node.js
 node_modules/
+
+# Frame Viewer
+*.gv
+*.pdf
