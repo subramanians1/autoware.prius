@@ -33,8 +33,8 @@ repositories:
     version: a06b4533475f84e62d673273175ff4a62da907cf
   universe/autoware.universe:
     type: git
-    url: https://github.com/autowarefoundation/autoware.universe.git
-    version: 4ba9dd4c8076901a90616881df2c8c3712c122f3
+    url: https://github.com/avinashumeshsarma/autoware_universe.git
+    version: v2024_11
   universe/external/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
