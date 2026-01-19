@@ -23,14 +23,14 @@ repositories:
     type: git
     url: https://github.com/tue-audri/ouster_description.git
     version: ros2
-  launcher/autoware_launch_prius/vehicle/prius_vehicle_launch:
+  launcher/autoware_launch/vehicle/prius_vehicle_launch:
     type: git
     url: https://github.com/tue-audri/prius_vehicle_launch.git
     version: v2024_11
-  launcher/autoware_launch_prius/sensor_kit/prius_sensor_kit_launch:
+  launcher/autoware_launch/sensor_kit/prius_sensor_kit_launch:
     type: git
     url: https://github.com/tue-audri/prius_sensor_kit_launch.git
-    version: v2024_11
+    version: v1.5.0
   vehicle/external/prius_interface:
     type: git
     url: https://github.com/tue-audri/prius_interface.git
