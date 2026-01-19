@@ -7,3 +7,31 @@ repositories:
     type: git
     url: https://github.com/tier4/pacmod_interface.git
     version: main
+  sensor_component/external/ouster-ros:
+    type: git
+    url: https://github.com/ouster-lidar/ouster-ros.git
+    version: e4dd8bf4bb1d66ec6272344cf0582d0c3f9d340e
+  sensor_component/external/oxts_ros2_driver_humble:
+    type: git
+    url: https://github.com/tue-audri/oxts_ros2_driver_humble.git
+    version: master
+  sensor_component/external/ouster_point_type_adapter:
+    type: git
+    url: https://github.com/tue-audri/ouster_point_type_adapter.git
+    version: main
+  sensor_component/external/sensor_component_description/ouster_description:
+    type: git
+    url: https://github.com/tue-audri/ouster_description.git
+    version: ros2
+  launcher/autoware_launch_prius/vehicle/prius_vehicle_launch:
+    type: git
+    url: https://github.com/tue-audri/prius_vehicle_launch.git
+    version: v2024_11
+  launcher/autoware_launch_prius/sensor_kit/prius_sensor_kit_launch:
+    type: git
+    url: https://github.com/tue-audri/prius_sensor_kit_launch.git
+    version: v2024_11
+  vehicle/external/prius_interface:
+    type: git
+    url: https://github.com/tue-audri/prius_interface.git
+    version: main
