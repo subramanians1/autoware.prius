@@ -35,3 +35,7 @@ repositories:
     type: git
     url: https://github.com/tue-audri/prius_interface.git
     version: main
+  sensor_component/external/pylon-ros-camera:
+    type: git
+    url: https://github.com/tue-audri/pylon-ros-camera.git
+    version: autoware_v2024_11
